@@ -1,0 +1,161 @@
+body {
+   
+background-color: azure;
+}
+
+#navbar {
+    text-align: center;
+    padding: 12px;
+    border-style: solid;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-color:  rgba(25, 50, 187, 0.555);
+    position: fixed;
+    width: 16in;
+                                                                                                                                              
+} 
+ 
+.top-nav {
+     margin: 80px;
+}   
+
+
+
+#welcome-section {
+   background-image: url(../Images/Images/pexels-pixabay-302304.jpg);
+   height: 100vh;
+   margin-top: 10px;
+}
+
+#projects {
+     height: 550px;
+    position: relative;
+    font-size: 20px;
+   margin-top: 15px;
+  background-color: aliceblue;
+}
+
+#section1 {
+    color: black;
+    height: 550px;
+    background-image: linear-gradient(to right, #5b678d, white);
+ }    
+
+ .poem {
+   text-align: center; 
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   position: relative;
+   top: 240px;
+   font-size: 26px;
+ }  
+    
+ .my_info {
+     background-color: #5b678d;
+     color: white;
+     font-size: 42px;
+     font-family: cursive;
+     text-align: center;
+     padding: 10px;
+     width: 50%;
+     position: absolute;
+     left: 25%;
+     top: 30%;
+}
+
+#projects_header {
+    text-align: center;
+}
+
+#img1 {
+    width: 25%;
+   position: relative;
+   left: 50px;
+  bottom: 50px;
+  height: 285px;
+}
+
+#img2 {
+    width: 25%;
+    margin: 50px;
+    position: relative;
+    left: 110px;
+    height: 285px;
+}    
+
+#img3 {
+   width: 25%;
+   height: 285px;
+   position: relative;
+   left: 160px;
+   bottom: 50px;
+} 
+
+#email {
+    height: 15px;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 20px;
+}    
+
+#contact {
+    height: 200px;
+    text-align: center;
+}
+
+#aboutme {
+    height: 550px;
+    background-image: linear-gradient(to left, #5b678d, white);
+    font-size: 26px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#skills {
+position: relative;
+top: 80px;
+}
+  
+#list {
+width: 175px;
+position: relative;
+left: 500px;
+top: 90px;
+}  
+
+
+
+
+    
+ 
+    
+
+
+
+  
+
+
+
+
+
+   
+  
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
